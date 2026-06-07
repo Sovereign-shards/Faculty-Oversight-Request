@@ -1,6 +1,6 @@
 Subject: Request for Faculty Oversight, Resource Allocation, and Project Approval: Sovereign Shards
 
-Dear [Faculty Name/Program Director/Dean],
+Dear Maestro Faculty,
 
 I am writing to formally request your oversight, support, and resource guidance for a unique, student-initiated project called Sovereign Shards. This project is designed to bridge real-world technology needs, advanced teamwork, and Maestro College’s mission of hands-on, mastery-based learning.
 
@@ -46,8 +46,6 @@ I welcome your questions, suggestions, and feedback. Thank you for considering t
 
 Sincerely,
 
-Batsans Hero to the bone
+Mike McCollum
 
-[Email, phone, or contact if appropriate]
-
-[attachments: project charter, detailed plan/timeline, onboarding doc if desired]
+s4ndm4n33@gmail.com
